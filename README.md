@@ -61,6 +61,4 @@ This program interacts with a memory-mapped sensor to monitor water levels. Base
 
 ---
 
-## **General Notes:**
-All programs should be assembled and linked using NASM before execution. The focus of these projects is to solidify understanding of control structures, memory manipulation, and efficient use of the stack in assembly programming.
 
